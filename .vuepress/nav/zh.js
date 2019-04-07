@@ -42,7 +42,7 @@ module.exports = [
           {"link": "/cn/内联/自动链接.html", "text": "自动链接"},
           {"link": "/cn/内联/自动链接（拓展）.html", "text": "自动链接（拓展）"},
           {"link": "/cn/内联/原生HTML.html", "text": "原生HTML"},
-          {"link": "/cn/内联/无效HTML（拓展）.html", "text": "无效HTML（拓展）"},
+          {"link": "/cn/内联/无效HTML.html", "text": "无效HTML"},
           {"link": "/cn/内联/强制换行.html", "text": "强制换行"},
           {"link": "/cn/内联/软换行.html", "text": "软换行"},
           {"link": "/cn/内联/文本内容.html", "text": "文本内容"},

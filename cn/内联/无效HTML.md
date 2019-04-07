@@ -1,4 +1,4 @@
-### 无效 HTML (拓展)
+### 无效 HTML
 
 GFM 启用`tagfilter`扩展，在渲染 HTML 输出时将过滤以下 HTML 标签：  
 
