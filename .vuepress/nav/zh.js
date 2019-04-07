@@ -1,5 +1,4 @@
 module.exports = [
-  {"link": "https://docschina.org/", "text": "印记中文"},
   {"link": "/cn/介绍/", "text": "介绍"},
   {"link": "/cn/预热/", "text": "预热"},
   {"link": "/cn/块和内联/", "text": "块和内联"},
@@ -58,4 +57,5 @@ module.exports = [
           {"link": "/Appendix/inline%20structure.html", "text": "inline structure"},
     ]
   },
+  {"link": "https://docschina.org/", "text": "印记中文"},
 ]
